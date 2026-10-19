@@ -1,1 +1,1 @@
-https://github.com/kulikovt/1st-semester/blob/main/index.html
+https://kulikovt.github.io/1st-semester/
