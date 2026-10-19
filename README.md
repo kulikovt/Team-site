@@ -1,1 +1,1 @@
-https://kulikovt.github.io/1st-semester/
+https://kulikovt.github.io/Team-site/
